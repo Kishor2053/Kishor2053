@@ -1,7 +1,5 @@
 <h1>Hi 👋, I'm Kishore Kumar K</h1>
 
-- 🔭 I’m currently working on **React, Servlets, J2EE**
-
 - 🌱 I’m currently learning **React js, Node js**
 
 - 🤝 I’m looking for help with **Node js, Game development**
