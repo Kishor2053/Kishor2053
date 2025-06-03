@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Kishore Kumar K</h1>
 
-- 🌱 I’m currently learning **React js, Node js, Spring boot**
+- 🌱 I’m currently learning **React js, Node js**
 
 - 🤝 I’m looking for help with **Node js, Game development**
 
